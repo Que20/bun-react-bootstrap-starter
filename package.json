@@ -1,0 +1,25 @@
+{
+  "name": "bun-react-bootstrap-starter",
+  "version": "0.1.61",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3",
+    "web-vitals": "^3.0.3"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "react-refresh": "0.10.0"
+  },
+  "scripts": {
+    "start": "bun dev",
+    "build": "react-scripts build"
+  }
+}
